@@ -6,18 +6,14 @@ const app = express();
 
 app.use(express.json());
 
-app.set("view engine", "ejs")
-app.set("views", "src/views")
-
-
+app.set("view engine", "ejs");
+app.set("views", "src/views");
 
 // Views
 app.get("/v/products", async (req, res) => {
-    const products = await ProductModel.find({})
-    res.render("index", products)
-})
-
-
+  const products = await ProductModel.find({});
+  res.render("index", { products });
+});
 
 // API
 /*
