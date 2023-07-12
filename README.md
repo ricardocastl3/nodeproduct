@@ -43,8 +43,21 @@ npm install
 ### ⚙️ Run application
 
 ```
-npm run start:dev
+npm run start
+
+https://localhost:8888
 ```
+
+### ⚙️ End-Points
+
+
+| End-Point | Description
+|---|---|
+https://localhost:8888/v/products | View home page returned html.
+https://localhost:8888/products | Get All Products
+https://localhost:8888/product/id | Get, Delete, Update product
+
+
 
 ## 🛠️ Developed with
 
