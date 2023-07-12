@@ -19,11 +19,6 @@
 
 These instructions will allow you to get a copy of the project up and running on your local machine for development and testing purposes.
 
-### 📋 Install Dependences
-```
-npm install
-```
-
 ### 🔧 Settings to run on local machine
 
 The first step you'll need to get started is downloading the project.
@@ -39,6 +34,17 @@ MONGODB_USERNAME=nome-usuario
 MONGODB_PASSWORD=minha-senha
 ```
 Make sure the settings match your machine's settings.
+
+### 📋 Install Dependences
+```
+npm install
+```
+
+### ⚙️ Run application
+
+```
+npm run start:dev
+```
 
 ## 🛠️ Developed with
 
