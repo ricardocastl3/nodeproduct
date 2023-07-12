@@ -8,18 +8,16 @@ Flex Loan, é uma plataforma online, flexível e de fácil uso, que permite ao u
 Ela é responsiva o que significa que pode ser acessada em diversos dispositivos diferentes, como smarthphones, tablets e computadores.
 
 ### Visualização Desktop
-![mobile-version](https://github.com/ricardocastl3/flexloans/blob/master/public/assets/Images/desktop-01.png?raw=true)
----
-![mobile-version](https://github.com/ricardocastl3/flexloans/blob/master/public/assets/Images/desktop-02.png?raw=true)
+![mobile-version](https://github.com/ricardocastl3/nodeproduct/blob/master/src/assets/desktop01.png)
 
-### Visualização Móvel
-<img src="https://github.com/ricardocastl3/flexloans/blob/master/public/assets/Images/mobile-version-01.png?raw=true" width="200">
+### Visualização Geral
+<img src="https://github.com/ricardocastl3/nodeproduct/blob/master/src/assets/mobile01.png?raw=true" width="200">
 
 ### Visão das Carteiras
-<img src="https://github.com/ricardocastl3/flexloans/blob/master/public/assets/Images/mobile-version-02.png?raw=true" width="200">
+<img src="https://github.com/ricardocastl3/nodeproduct/blob/master/src/assets/mobile02.png?raw=true" width="200">
 
-### Cartões de empréstimos
-<img src="https://github.com/ricardocastl3/flexloans/blob/master/public/assets/Images/mobile-version-05.png?raw=true" width="200">
+### Visualização em tablets
+<img src="https://github.com/ricardocastl3/nodeproduct/blob/master/src/assets/tablet01.png?raw=true" width="200">
 
 ## 🚀 Começando
 
@@ -83,8 +81,8 @@ Em seu terminal vai aparacer um link do seu host local que será usado para pode
 ## 🛠️ Desenvolvido com
 
 
-* [PHP Laravel](https://laravel.com/docs/) - O framework Web usado no Back-End.
-* [Livewire](https://laravel-livewire.com/docs/2.x/quickstart) e [AlpineJS](https://alpinejs.dev/) - Frameworks front-end usados na aplicação.
+* [Node.JS](https://nodejs.org/en/docs) - Para o back-end.
+* [AlpineJS](https://alpinejs.dev/) - Frameworks front-end.
 
 ## ✒️ Autores
 
