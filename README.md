@@ -30,10 +30,15 @@ git clone https://github.com/ricardocastl3/nodeproduct
 After the previous step, feel free to make changes to the database information inside the ``.env`` file, like:
 
 ```
-MONGODB_USERNAME=nome-usuario
-MONGODB_PASSWORD=minha-senha
+MONGODB_USERNAME=username
+MONGODB_PASSWORD=password
+MONGODB_LOCATION=your-location
 ```
+
+This setup uses the mongodb cloud, if you don't have an account, [create it there](https://account.mongodb.com/account/login), and get your connection string, after that you can replace the specific fields by putting it in the .env file.
+
 Make sure the settings match your machine's settings.
+
 
 ### 📋 Install Dependences
 ```
