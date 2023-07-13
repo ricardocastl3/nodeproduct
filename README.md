@@ -34,6 +34,12 @@ MONGODB_USERNAME=username
 MONGODB_PASSWORD=password
 MONGODB_LOCATION=your-location
 ```
+These are the fields in your connection string:
+
+```
+mongodb+srv://<username>:<passowrd>@yourlocation
+```
+
 
 This setup uses the mongodb cloud, if you don't have an account, [create it there](https://account.mongodb.com/account/login), and get your connection string, after that you can replace the specific fields by putting it in the .env file.
 
